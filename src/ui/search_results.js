@@ -13,7 +13,7 @@ define(function(require, exports, module) {
       suggestedSelector: ".suggested",
       resultContainerSelector: "ul",
       resultSelector: "li",
-      resultTemplate: '<li><strong>{{ organization_name }}</strong> ({{ address }})</li>'
+      resultTemplate: '<li><strong>{{ ST_NAME }}</strong> ({{ ADDRESS }})</li>'
     });
 
     this.showHelp = function(ev, options) {

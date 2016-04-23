@@ -7,7 +7,7 @@ define(function(require, exports, module) {
     this.defaultAttrs({
       searchSelector: 'input',
       searchResultsSelector: '#search-results',
-      resultTemplate: '<strong>{{ organization_name }}</strong> ({{ address }})'
+      resultTemplate: '<strong>{{ ST_NAME }}</strong> ({{ ADDRESS }})'
     });
 
     this.configureSearch = function(ev, config) {
