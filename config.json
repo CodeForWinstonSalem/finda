@@ -2,16 +2,16 @@
   "project": {
     "name": "Finda",
     "description": "<p>Finda is a generic \"find-a\" app for geographic datasets.</p>",
-    "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
+    "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/CodeForWinstonSalem/finda/issues\" target=\"_blank\">Github</a> page."
   },
   "map": {
     "preview_attribute": "organization_name",
-    "center":[42.3725, -71.1266],
-    "zoom":13,
-    "maxZoom":16,
+    "center":[36.0988, -80.2466],
+    "zoom":14,
+    "maxZoom":18,
     "maxBounds":[
-      [39.2, -78.0],
-      [44.5, -65.0]
+      [36.25, -80.50],
+      [35.99, -80.04]
     ]
   },
   "properties": [
